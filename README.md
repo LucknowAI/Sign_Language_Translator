@@ -3,9 +3,11 @@
 
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/license/your-repo-path" alt="License">
-  <img src="https://img.shields.io/github/last-commit/your-repo-path" alt="Last Commit">
-  <img src="https://img.shields.io/github/contributors/your-repo-path" alt="Contributors">
+
+[![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/LucknowAI/Sign_Language_Translator/blob/master/LICENSE)
+[![GitHub commit](https://img.shields.io/github/last-commit/LucknowAI/Sign_Language_Translator)](https://github.com/LucknowAI/Sign_Language_Translator/commits/master)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 </p>
 
 <p align="center">
