@@ -1,14 +1,11 @@
 <p align="center">
-  <img src="sign.png" alt="Signal Processing" width="100">
+  <img src="sign.png" alt="Sign language interpreter" width="100">
 
 </p>
-<p align="center">
 
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/LucknowAI/Sign_Language_Translator/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/LucknowAI/Sign_Language_Translator)](https://github.com/LucknowAI/Sign_Language_Translator/commits/master)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-</p>
 
 <p align="center">
   <h1>Sign Language Translator</h1>
@@ -16,7 +13,7 @@
 
 ---
 
-The Sign Language Translator is an open-source research project developing an AI-powered tool for real-time sign language translation. It invites contributors to improve accuracy and accessibility, helping the deaf and hard-of-hearing community. Join us in advancing inclusively through AI and collaboration.
+The Sign Language Translator is an open-source project developing an AI-powered tool for real-time sign language translation. It invites contributors to improve accuracy and accessibility, helping the deaf and hard-of-hearing community. Join us in advancing inclusively through AI and collaboration.
 
 ## 📚 Research Papers
 
